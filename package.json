@@ -1,0 +1,22 @@
+{
+  "name": "bjcp-json",
+  "version": "1.0.0",
+  "description": "BJCP Beer Style Guidelines in the BeerJson format",
+  "main": "index.js",
+  "devDependencies": {
+    "lodash": "4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beerjson/bjcp-json.git"
+  },
+  "author": "krutilin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beerjson/bjcp-json/issues"
+  },
+  "homepage": "https://github.com/beerjson/bjcp-json#readme"
+}
